@@ -1,2 +1,7 @@
 # Nature-lookup-app
 Een Wordpress thema en web applicatie gemaakt met HTML5, scss JavaScript, Bootstrap en Wordpress  
+
+
+![Screenshot 2022-12-02 at 09 29 36](https://user-images.githubusercontent.com/94444127/205303908-1b60c251-96cb-4895-b9d4-564369798801.png)
+![Screenshot 2022-12-02 at 09 30 02](https://user-images.githubusercontent.com/94444127/205303915-0d80fddf-2110-489b-aebc-e9e9786626d2.png)
+![Screenshot 2022-12-02 at 09 30 09](https://user-images.githubusercontent.com/94444127/205303926-aef36cd6-1225-41e2-8ae3-a8ab1e9de06d.png)
