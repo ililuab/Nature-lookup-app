@@ -1,6 +1,6 @@
 # Nature lookup app
 Een Wordpress thema en web applicatie gemaakt met HTML5, scss JavaScript, Bootstrap en Wordpress  
-Ik heb gebruik gemaakt van de [geoapify API](https://www.geoapify.com/)
+Ik heb gebruik gemaakt van de [geoapify API](https://www.geoapify.com/) zoek je woonplaats op en vind de best natuurplek in je buurt.
 
 
 ![Screenshot 2022-12-02 at 09 29 36](https://user-images.githubusercontent.com/94444127/205303908-1b60c251-96cb-4895-b9d4-564369798801.png)
